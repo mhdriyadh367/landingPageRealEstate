@@ -1,23 +1,39 @@
-import logo from './logo.svg';
-import './App.css';
+import CardSearch from './components/CardSearch';
+import Chooseus from './components/Chooseus';
+import Footer from './components/Footer';
+import Hero from './components/Hero';
+import Navbar from './components/Navbar';
+import Properties from './components/Properties';
+import Testimoni from './components/Testimoni';
+import Work from './components/Work';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      
+      {/* Header */}
+      <Navbar />
+
+      {/* Hero */}
+      <Hero />
+
+      {/* CardSearch */}
+      <CardSearch />
+
+      {/* Work */}
+      <Work />
+
+      {/* Chooseus */}
+      <Chooseus />
+
+      {/* Properties */}
+      <Properties />
+
+      {/* Testimooni */}
+      <Testimoni />
+
+      {/* Footer */}
+      <Footer />
     </div>
   );
 }
