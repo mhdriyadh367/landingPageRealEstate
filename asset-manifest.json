@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/landingPageRealEstate/static/css/main.a6746347.css",
+    "main.js": "/landingPageRealEstate/static/js/main.dfa98597.js",
+    "static/js/787.2b0a459f.chunk.js": "/landingPageRealEstate/static/js/787.2b0a459f.chunk.js",
+    "static/media/bg1.png": "/landingPageRealEstate/static/media/bg1.c6f3adeab6d273ab34af.png",
+    "static/media/bg2.png": "/landingPageRealEstate/static/media/bg2.ba137b0ab01eab9da5ad.png",
+    "static/media/bg3.png": "/landingPageRealEstate/static/media/bg3.766bbd014358c6fe880e.png",
+    "static/media/bg4.png": "/landingPageRealEstate/static/media/bg4.532349422b308edb7356.png",
+    "static/media/bg5.png": "/landingPageRealEstate/static/media/bg5.95a63f1deb21c8235d40.png",
+    "static/media/3.png": "/landingPageRealEstate/static/media/3.d36b871c69b85ab12f6c.png",
+    "static/media/2.png": "/landingPageRealEstate/static/media/2.270c614c9826127bce6b.png",
+    "index.html": "/landingPageRealEstate/index.html",
+    "main.a6746347.css.map": "/landingPageRealEstate/static/css/main.a6746347.css.map",
+    "main.dfa98597.js.map": "/landingPageRealEstate/static/js/main.dfa98597.js.map",
+    "787.2b0a459f.chunk.js.map": "/landingPageRealEstate/static/js/787.2b0a459f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6746347.css",
+    "static/js/main.dfa98597.js"
+  ]
+}
